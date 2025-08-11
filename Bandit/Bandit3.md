@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 Find the password stored in the file in the inhere directory

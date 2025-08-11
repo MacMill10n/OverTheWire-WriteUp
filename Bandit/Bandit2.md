@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 open the file called "--spaces in this filename--"

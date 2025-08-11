@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 Find the password in the file with the following properties:

@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 ssh into the machine on bandit.labs.overthewire.org with the user bandit0 and password bandit0

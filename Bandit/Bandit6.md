@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 find the password which is stored somewhere on the server with the following properties:

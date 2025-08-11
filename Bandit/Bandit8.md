@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 Find the password in the `data.txt` in the line of text that occurs only once

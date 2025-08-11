@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 Find the password stored in the `data.txt` next to the word millionth

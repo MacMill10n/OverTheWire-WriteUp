@@ -1,4 +1,3 @@
-up : [[Bandit]]
 ## Goal
 ---
 open the file called "-" to view the contents
